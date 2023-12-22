@@ -1,0 +1,10 @@
+Compilação dos funtores:
+
+ozc -c Gates.oz
+
+ozc -c Circuits.oz
+
+ozc -c Main.oz
+
+Para executar o programa principal:
+ozengine Main.ozf
