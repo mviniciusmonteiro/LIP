@@ -1,3 +1,3 @@
 # LIP
 
-Repositório para a disciplina de Linguagens de Programação
+Repositório para a disciplina de Linguagens de Programação I
